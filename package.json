@@ -1,0 +1,31 @@
+{
+  "name": "automationstation",
+  "version": "1.0.0",
+  "description": "Practice and example script of automation in Protractor",
+  "main": "automationstation-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelsolla/AutomationStation.git"
+  },
+  "keywords": [
+    "Protractor",
+    "Applitools",
+    "Automation",
+    "Selenium"
+  ],
+  "author": "Michael Solla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelsolla/AutomationStation/issues"
+  },
+  "homepage": "https://github.com/michaelsolla/AutomationStation#readme",
+  "dependencies": {
+    "eyes.protractor": "^0.0.57",
+    "jasmine-spec-reporter": "^2.7.0",
+    "protractor": "^4.0.10"
+  },
+  "devDependencies": {}
+}
